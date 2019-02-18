@@ -1,0 +1,136 @@
+
+/* background css */
+body {
+  background-attachment: fixed; 
+  background-size: cover;
+  margin: 0;
+}
+
+/* about me content css */
+mark {
+  color: lightgreen;
+  background-color: mediumseagreen;
+}
+
+/* index gif css */
+.gif img{
+  width: 200px; 
+  height: 150px;
+}
+
+/* index welcome text css */
+.welcome {
+  font-family: courier; 
+  font-size: 150%; color: lightgreen; 
+  margin: 0px;
+}
+
+/* about me text css */
+.obs {
+  font-family: courier; color: lightgreen; 
+  background-color: forestgreen;
+  margin: 0px; 
+  padding: 5px;
+}
+
+/* likes/dislikes img css */
+.basic {
+ 
+  display: block;
+  width: 100%;
+  height: 200px;
+}
+
+}
+
+/* likes/dislikes table css */
+.gg table {
+  border-collapse: collapse;
+  border: 4px solid lightgreen;
+  padding: 0px;
+}
+
+/* likes/dislikes td css */
+.gg td {
+  border-collapse: collapse;
+  border: 4px solid lightgreen;
+  padding: 0px;
+}
+
+/* likes/dislikes tr css */
+.ez{
+  background-color: mediumseagreen;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: courier;
+  color: darkgreen;
+}
+
+/* my website text css */
+.header {
+  padding: 1px;
+  text-align: center;
+  background-image: url(pakwan.jpg);
+  background-size: 200px;
+  background width: 100%
+  background-repeat: no-repeat;
+  font-family: courier;
+  color: lime;
+  font-size: 20px;
+}
+
+/* footer text css */
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: lime;
+  font-weight: bold;
+  background-color: forestgreen;
+  padding: 5px;
+  text-align: center;
+  font-family: courier;
+  margin: 0px;
+}
+
+/* nav bar list css */
+ul {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background-color: lightgreen;
+}
+
+/* likes/dislikes food etc. nav bar css */
+.ul {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background-color: mediumseagreen;
+}
+
+/* nav bar style css */
+li {
+  display: inline-block;} 
+
+/* nav bar text css */
+li a {
+	font-family: courier;
+	display: block;
+  font-weight: bold;
+	color: green;
+	text-align: center;
+	padding: 15px 50px;
+	text-decoration: none;
+}
+
+/* cursor hover css */
+li a:hover {
+  background-color: limegreen;
+}
+
+/* clicked active link css */
+.active{
+  background-color: lime;
+}
